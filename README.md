@@ -29,7 +29,7 @@ To enhance the data structure, the additional columns such as EmployeeID,Job Tit
 ![Data Enrichment_Python](https://github.com/user-attachments/assets/8ebe4bd4-bc1f-4a65-be71-6c818d351a6c)
 ![Data Cleaning   Preprocessing View_Python](https://github.com/user-attachments/assets/db6951d7-e859-44d1-a858-017f0ce86a94)
 
-3. **Databse Creation & Data Modelling (SQL Server)**
+3. **Database Creation & Data Modelling (SQL Server)**
      * Designed a relational database with Employee as the fact table
        ![TransfomedData_SSMS View](https://github.com/user-attachments/assets/bd2783dc-5d90-4eaf-a8dc-856b8d8fda12)
      * Created dimension tables (Department, Job Title, Job Category, Salary)
