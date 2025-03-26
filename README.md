@@ -1,5 +1,5 @@
 ## HR Analytics Project: Workforce insights Data-Driven Decision-Making
-This project leverages Python, SQL Server, Power BI, and DAX to transform raw HR data into actionable insights with the aid of an ETL pipeline.
+This project leverages Python (ETL) pipleine, SQL Server, Power BI, and DAX to transform raw HR data into actionable insights.
 
 #### **Overview**
 This project leverages Python, SQL Server, Power BI, and DAX to transform raw HR data into actionable insights. Using ETL pipline, the data was extracted, cleaned,enriched and loaded into a SQL reational database for further analysis. Business intelligence techniques were applied to analyze turnover trends,salary distribution, workforce demographics, and employee engagement, helping HR teams make informed decisions. The dataset, sourced from a **CSV file, contains 1.2 million records** with eight key atributes:
