@@ -1,7 +1,7 @@
 ## HR Analytics Project: Workforce insights Data-Driven Decision-Making
 This project leverages Python (ETL) pipleine, SQL Server, Power BI, and DAX to transform raw HR data into actionable insights.
 
-#### **Overview**
+### **Overview**
 This project leverages Python, SQL Server, Power BI, and DAX to transform raw HR data into actionable insights. Using ETL pipline, the data was extracted, cleaned,enriched and loaded into a SQL reational database for further analysis. Business intelligence techniques were applied to analyze turnover trends,salary distribution, workforce demographics, and employee engagement, helping HR teams make informed decisions. The dataset, sourced from a **CSV file, contains 1.2 million records** with eight key atributes:
 * Hired Date
 * Leave Date
@@ -13,7 +13,7 @@ This project leverages Python, SQL Server, Power BI, and DAX to transform raw HR
 * Job Category
 To enhance the data structure, the additional columns such as EmployeeID,Job TitleID,Department ID, and Job Category ID were created. the project utilizes **Python, SQL Server, Power BI, and DAX(Data Analysis Expression)** to anlyze workforce trends and provide actionable recommendations.
 
-#### **Project Workflow**
+### **Project Workflow**
 ![WhatsApp Image 2025-03-21 at 7 21 25 PM](https://github.com/user-attachments/assets/80554555-6bc4-46d2-b3a9-ec88678e86ed)
 
 
@@ -60,12 +60,12 @@ To enhance the data structure, the additional columns such as EmployeeID,Job Tit
           ![Salary Dispersion Ratio Power BI](https://github.com/user-attachments/assets/d2fa4f5b-eb79-4bbf-8c9a-1b48d6ecceb9)
           ![HR Analysis Dashboard_Final Output](https://github.com/user-attachments/assets/d000567e-dfe1-4b6b-a2ab-1f9b3a2b6639)
 
-#### **Key Technologies & Tools**
+### **Key Technologies & Tools**
 * **Python (Pandas, Numpy,SQLALchemy)**: Data extraction, transformation, and loading(ETL)
 * **SQL Server:** Database creation, modelling, and analysis.
 * **Power BI:** Dashboard development, Advanced measures, calculated fields for insights and data visualization.
 
-#### ** Conclusion & Recommendations**
+### **Conclusion & Recommendations**
 This HR anlytics project leveraged Pyton for ETL pipelines, SQL for structured data storage, and Power BI for visualization, transforming raw HR data into actionable insights. By automating data extraction, transformation, and loading (ETL), cleaned data was seamlessly integrated into SQL Server, enabling efficient analysis of turnover rates, slary distribution, and workforce demographics.
 
 **Recommendations:**
