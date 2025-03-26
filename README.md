@@ -65,13 +65,14 @@ To enhance the data structure, the additional columns such as EmployeeID,Job Tit
 * **SQL Server:** Database creation, modelling, and analysis.
 * **Power BI:** Dashboard development, Advanced measures, calculated fields for insights and data visualization.
 
-#### **Recommendations**
+#### ** Conclusion & Recommendations**
+This HR anlytics project leveraged Pyton for ETL pipelines, SQL for structured data storage, and Power BI for visualization, transforming raw HR data into actionable insights. By automating data extraction, transformation, and loading (ETL), cleaned data was seamlessly integrated into SQL Server, enabling efficient analysis of turnover rates, slary distribution, and workforce demographics.
+
+**Recommendations:**
 1. **Investigate Employee Turnover Causes:** Add a column for **"Reason for Exit"** to improve retention strategies.
 2. **HR Department Turnover:** Address high attrition rates with employee engagement intiatives.
 3. **Salary Benchmarking:** Align slaries with industry standards to improve satisfaction.
 4. **Real-Time Data Automation:** Enhance Python ETL pipelines for continous data updates.
-
-This project equips HR teams with data-driven insights to enhance workforce management, optimize decision-making, and improve employee enagagement.
 
 
 
